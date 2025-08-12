@@ -1,0 +1,32 @@
+export const CATEGORIES = [
+  { text: "Cartoons & Animations", value: 32 },
+  { text: "Anime e Manga", value: 31 },
+  { text: "Gadgets", value: 30 },
+  { text: "Comics", value: 29 },
+  { text: "Vehicles", value: 28 },
+  { text: "Animals", value: 27 },
+  { text: "Celebrities", value: 26 },
+  { text: "Art", value: 25 },
+  { text: "Politics", value: 24 },
+  { text: "History", value: 23 },
+  { text: "Geography", value: 22 },
+  { text: "Sports", value: 21 },
+  { text: "Mythology", value: 20 },
+  { text: "Mathmatics", value: 19 },
+  { text: "Computers", value: 18 },
+  { text: "Sciente and Nature", value: 17 },
+  { text: "Board Games", value: 16 },
+  { text: "Video Games", value: 15 },
+  { text: "Television", value: 14 },
+  { text: "Musical and Theatres", value: 13 },
+  { text: "Music", value: 12 },
+  { text: "Film", value: 11 },
+  { text: "Books", value: 10 },
+  { text: "General Knowledge", value: 9 },
+];
+export const DIFFICULTIES = [
+  { text: "Easy", value: "easy" },
+  { text: "Medium", value: "medium" },
+  { text: "Hard", value: "hard" },
+];
+export const LOCALHOST = "localhost";
